@@ -1,21 +1,23 @@
-##Section 3
+# Section 3
 
-##Other Sections:
+## Other Sections:
 Section 1
 Section 2
 
 Sources:
-Mastering Markdown https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+##### Mastering Markdown 
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
-Github wiki
+##### Github wiki
 https://help.github.com/en/github
 
-Git Branching - Basic Branching and Merging
+##### Git Branching - Basic Branching and Merging
 https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
 
 
 
 This repository is a collobartive mini project by:
+
 *Afreen Farhana Uddin
 *Aman Trivei
 *Wismy Seide
