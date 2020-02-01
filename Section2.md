@@ -10,3 +10,12 @@ A repository is like a folder for a project. Project's repository contains all o
  
 	* git clone <repo url>
 	* git clone https://github.com/wseide/miniproject1.git
+
+# Fork:
+
+**Fork** is a copy of repository that developer manage and changes without affecting the original repository. The difference between fork and clone is that fork copy resides in github but clone copy resides in local machine
+
+### Example:
+ 
+	* On the github navigate to the repository
+	* In the top right corner of the page click Fork
