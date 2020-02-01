@@ -28,3 +28,11 @@ A repository is like a folder for a project. Project's repository contains all o
 
 	git checkout -b <branchname>
 	git checkout -b Afreen
+
+# Commit:
+
+**Commit** saves the snapshot to the project history and completes the change tracking process. Anything that is changed will be staged by adding **git add** and it will become part of snapshot with git commit
+
+### Example:
+
+	git commit -m "Definition of commit added"
