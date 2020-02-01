@@ -19,3 +19,12 @@ A repository is like a folder for a project. Project's repository contains all o
  
 	* On the github navigate to the repository
 	* In the top right corner of the page click Fork
+
+ # Branch:
+
+**Branch** is separate from master which enables users to work locally and change made on the branch does not affect the master brach. Once all the changes in braches checked it can be added to the master and updated.
+
+### Example:
+
+	git checkout -b <branchname>
+	git checkout -b Afreen
