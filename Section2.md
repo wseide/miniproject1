@@ -36,6 +36,7 @@ A repository is like a folder for a project. Project's repository contains all o
 ### Example:
 
 	git commit -m "Definition of commit added"
+<<<<<<< HEAD
 
 # Merge:
 
@@ -45,3 +46,8 @@ A repository is like a folder for a project. Project's repository contains all o
 
 	git merge <feature_branch>
 	git merge Afreen
+=======
+=======
+A repository is like a folder for a project. Project's repository contains all of the project's files and stores each file's revision history. The file history is stored as a snapshot in time called commits.
+
+>>>>>>> 3027c0f1fd155cda76d98d1da0c75e9e4bac4b5c
