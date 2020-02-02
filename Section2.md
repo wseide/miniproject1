@@ -37,5 +37,102 @@ A repository is like a folder for a project. Project's repository contains all o
 
 	git commit -m "Definition of commit added"
 
-A repository is like a folder for a project. Project's repository contains all of the project's files and stores each file's revision history. The file history is stored as a snapshot in time called commits.
+# Merge:
+
+**Merge** is used to combine changes made on two distinct branches. A developer would merge when they want to combine changes in feature branch to master branch.
+
+### Eample:
+
+	git merge <feature_branch>
+	git merge Afreen
+
+# Checkout:
+
+**Checkout** is used to switch between different versions of target entity. It operates upon three distinct entities- fils, commits and branches.
+
+### Example:
+
+	git checkout <branch_name>   (for switching branches)
+	git checkout Afreen
+
+	git checkout -b <branch_name> (create new branch)
+	git checkout -b Afreen
+
+# Push:
+
+**Push** updates remote repository with any commits made locally to a branch. After a local repository has been modified a push is executed to share the modifications with remote team members.
+
+### Example:
+
+	git push <remote>
+	git push origin master
+
+# Pull:
+
+**Pull** updates the local line of development with updates from its remote counterpart. Developers use this command if a teammate has made commits to a branch on a remote, and they would like to reflect those changes in their local environment.
+
+### Example:
+
+	git pull <remote_repo>
+	git pull origin master
+
+# Remote Add / Remove / Show:
+
+**Remote** repositories are versions of a project that are hosted on the Internet or network somewhere. Managing remote repositories includes knowing how to add remote repositories, remove remotes that are no longer valid, show more information about a particular remote.
+
+### Example:
+
+	git remote add <name> <url>
+	git remote remove <name>
+	git remote show <remote>
+
+# Status:
+
+**Status** shows the status of changes as untracked, modified or stages.
+
+### Example:
+
+	git status
+
+# Master Branch:
+
+**Master** is a naming convention for a branch. After cloning (downloading) a project from a remote server, the resulting local repository has a single local branch: the so-called "master" branch. This means that "master" can be seen as a repository's "default" branch.
+
+### Example:
+
+	git push origin master (changes made to remote master branch)
+
+# Git flow Workflow:
+
+Gitflow Workflow is a Git workflow design that was first published and made popular by Vincent Driessen at nvie. The Gitflow Workflow defines a strict branching model designed around the project release. It dictates what kind of branches to set up and how to merge them together. It assigns very specific roles to different branches and defines how and when they should interact.
+
+### Example:
+
+  Here the Workflow diagram of how to create a new branch and commit on that branch and master branch and finally merge new branch to master branch is shown in the diagram.
+
+ ![master branch only](Image/img1.png)
+
+ ![bugFix branch created](Image/img2.png)
+
+ ![checkout to bugFix branch](Image/img3.png)
+
+ ![commit on bugFix branch](Image/img4.png)
+
+ ![checkout to master branch](Image/img5.png)
+
+ ![commit on master branch](Image/img6.png)
+
+ ![merge bugFix to master branch](Image/img7.png)
+
+
+
+
+
+## Sources:
+
+[source1](https://guides.github.com/introduction/git-handbook/) 
+
+[Source2](https://www.atlassian.com/git/tutorials)
+
+[Source3](https://guides.github.com/features/mastering-markdown/)
 
