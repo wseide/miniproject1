@@ -36,3 +36,12 @@ A repository is like a folder for a project. Project's repository contains all o
 ### Example:
 
 	git commit -m "Definition of commit added"
+
+# Merge:
+
+**Merge** is used to combine changes made on two distinct branches. A developer would merge when they want to combine changes in feature branch to master branch.
+
+### Eample:
+
+	git merge <feature_branch>
+	git merge Afreen
