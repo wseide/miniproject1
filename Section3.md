@@ -1,5 +1,12 @@
 # Section 3
 
+### To Setup GIT
+Get a Github account from [Github](Github.com)
+Download and install `git` onto your computer
+Set up `git` with your `user name` and `email`
+
+
+
 ## Other Sections:
 ## Section 1
 [Section 1](section1.md)
