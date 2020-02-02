@@ -37,3 +37,5 @@ Using TAB key to complete file paths = This method is used in order to make it e
 This method is useful when you have many files and want to quickly retrieve one file. 
 
 If two or more files have similar names, you must type out enough of the file name so the program will recognize the file you want to retrieve and not get it confused with another file before hitting the TAB key.
+
+Using Up and Down Arrow for History = this action will retrieve previously typed code starting with the most recent code in order to save the user time when typing repetitive code. You can also view previous code with this function without scrolling up through the terminal.
