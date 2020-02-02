@@ -27,3 +27,5 @@ rm = stands for remove and is used for removing files from the Git Repository
 To correctly use this command, simply type git rm followed by the name of the file that you want removed.
 
 History = to find the commit history of a specific repository you must go to the commit section and click on a specific file to see the changes and inputs.
+
+Home Directory and ~ = the Home Directory is where the work is stored for the repository. The tilde symbol is used for referencing parent commits and previous heads within the branch.
