@@ -5,7 +5,11 @@ mkdir = stands for Make Directory
 It is used to create new directories within existing directories in order to store work for the repository.
 
 Implemented by typing mkdir followed immediately by the name of the new directory
+<<<<<<< HEAD
 =======
+=======
+
+>>>>>>> 18326c756f31024dbd48c97b9049f2f1713b24be
 
 cp = stands for copy and is used for copying files or directories
 
@@ -40,4 +44,7 @@ This method is useful when you have many files and want to quickly retrieve one 
 If two or more files have similar names, you must type out enough of the file name so the program will recognize the file you want to retrieve and not get it confused with another file before hitting the TAB key.
 
 Using Up and Down Arrow for History = this action will retrieve previously typed code starting with the most recent code in order to save the user time when typing repetitive code. You can also view previous code with this function without scrolling up through the terminal.
+<<<<<<< HEAD
 
+=======
+>>>>>>> 18326c756f31024dbd48c97b9049f2f1713b24be

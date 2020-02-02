@@ -37,7 +37,6 @@ A repository is like a folder for a project. Project's repository contains all o
 
 	git commit -m "Definition of commit added"
 
-
 # Merge:
 
 **Merge** is used to combine changes made on two distinct branches. A developer would merge when they want to combine changes in feature branch to master branch.
@@ -46,8 +45,16 @@ A repository is like a folder for a project. Project's repository contains all o
 
 	git merge <feature_branch>
 	git merge Afreen
-=======
-=======
-A repository is like a folder for a project. Project's repository contains all of the project's files and stores each file's revision history. The file history is stored as a snapshot in time called commits.
 
+# Checkout:
+
+**Checkout** is used to switch between different versions of target entity. It operates upon three distinct entities- fils, commits and branches.
+
+### Example:
+
+	git checkout <branch_name>   (for switching branches)
+	git checkout Afreen
+
+	git checkout -b <branch_name> (create new branch)
+	git checkout -b Afreen
 
