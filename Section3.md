@@ -24,6 +24,21 @@ Check your repositories and you should see the forked repository on your Github 
 5. Use command `git clone <name of repository>`
 6. The repository and the alloted filed should be on your local machine
 
+### Pull Request
+**Pull Request:** We make pull request to make changes and/or collobrate to a repository.
+
+To create 
+
+### Adding a Collaborator to a Github Repository
+To add a collaborator to a GitHub Repo:
+1. Go to **Settings**
+![Settings](Settings.PNG "Setting")
+2. On the left hand side select **Collaborators**
+![Collaborators](collab.PNG "Collaborators")
+3. You can add a collaborator by adding username, full name, or e-mail address
+![Add](add.PNG "Add")
+
+
 ## Other Sections:
 ### Section 1
 [Section 1](section1.md)
