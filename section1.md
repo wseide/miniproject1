@@ -10,4 +10,8 @@ cp = stands for copy and is used for copying files or directories
 
 This command reuqires two arguments after the command for it to work correctly
 
-To implement this command type cp followed by the two file names 
+To implement this command type cp followed by the two file names
+
+pwd = stands for "present working directory" and is used to print the current working directory path being used
+
+To implement this command correctly, simply type pwd in command line
