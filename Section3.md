@@ -5,6 +5,14 @@ Get a Github account from [Github](Github.com)
 Download and install `git` onto your computer
 Set up `git` with your `user name` and `email`
 
+### Concept of Branching
+We branch in Git and Github to protect our work and to protect work of others. With branching we can work collaboratively on one project and if we are working on the same material we can request a review and the person who review the quality of the code can push the correct code into the master branch. 
+
+### Avoiding the merge conflict
+We avoid merge conflicts by having someone review any request to push to the master branch. 
+
+
+
 ### Forking vs Cloning  
 **Forking:** When you fork a repository you are copying the entire repository to your github account.  People use to make invoke a change to their repository or to use is as a starting point for their project.
 
@@ -27,7 +35,7 @@ Check your repositories and you should see the forked repository on your Github 
 ### Pull Request
 **Pull Request:** We make pull request to make changes and/or collobrate to a repository.
 
-To create 
+To create a pull a request:
 
 ### Adding a Collaborator to a Github Repository
 To add a collaborator to a GitHub Repo:
@@ -48,7 +56,7 @@ To add a collaborator to a GitHub Repo:
 [Section 2](section2.md)
 
 ## Authors
-Collaborative Effort by:
+*Collaborative Effort* by:
 1. **Afreen Farhana Uddin**
 2. **Aman Trivedi**
 3. **Wismy Seide**
