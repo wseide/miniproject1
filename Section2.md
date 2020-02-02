@@ -101,3 +101,25 @@ A repository is like a folder for a project. Project's repository contains all o
 ### Example:
 
 	git push origin master (changes made to remote master branch)
+
+# Git flow Workflow:
+
+Gitflow Workflow is a Git workflow design that was first published and made popular by Vincent Driessen at nvie. The Gitflow Workflow defines a strict branching model designed around the project release. It dictates what kind of branches to set up and how to merge them together. It assigns very specific roles to different branches and defines how and when they should interact.
+
+### Example:
+
+  Here the Workflow diagram of how to create a new branch and commit on that branch and master branch and finally merge new branch to master branch is shown in the diagram.
+
+ ![master branch only](Image/img1.png)
+
+ ![bugFix branch created](Image/img2.png)
+
+ ![checkout to bugFix branch](Image/img3.png)
+
+ ![commit on bugFix branch](Image/img4.png)
+
+ ![checkout to master branch](Image/img5.png)
+
+ ![commit on master branch](Image/img6.png)
+
+ ![merge bugFix to master branch](Image/img7.png)
