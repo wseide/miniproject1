@@ -11,7 +11,7 @@ Then we can setup your own branch using the comamnd line in your Terminal:
 
 `git checkout -b <branch name>`
 
-Then you will be able to work within your branch
+Then you will be able to work within your branch.
 
 ### Concept of Branching
 We branch in Git and Github to protect our work and to protect work of others. With branching we can work collaboratively on one project and if we are working on the same material we can request a review and the person who review the quality of the code can push the correct code into the master branch. 
@@ -66,7 +66,9 @@ Once approved, the changes can be merged into the master.
 This is a great safety protocol to ensure quality code is going into the master branch that will not break websites and applications.
 
 **In your Terminal**
-Run command
+Run command `git request-pull [-p] <start> <url> [<end>]`
+
+`-p <start> <url> <end>` is optional where `-p` is the patch text in output, `<start>` is the commit to start at, `<url>` is the url of the repository, and `[<end>]` is commit to end at.
 
 ### Adding a Collaborator to a Github Repository
 To add a collaborator to a GitHub Repo:
