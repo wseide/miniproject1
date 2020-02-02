@@ -1,7 +1,7 @@
 # Mini Project 1 
 
 Collaborative Effort by:
-**Afreen Farhana Uddin**
+..* **Afreen Farhana Uddin**
 **Aman Trivedi**
 **Wismy Seide**
 
