@@ -21,3 +21,6 @@ Collaborative Effort by:
 
 ## Link to Repository
 [Repository](https://github.com/wseide/miniproject1)
+
+## Requirements
+No requirements just documentation
