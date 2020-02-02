@@ -75,3 +75,13 @@ A repository is like a folder for a project. Project's repository contains all o
 
 	git pull <remote_repo>
 	git pull origin master
+
+# Remote Add / Remove / Show:
+
+**Remote** repositories are versions of a project that are hosted on the Internet or network somewhere. Managing remote repositories includes knowing how to add remote repositories, remove remotes that are no longer valid, show more information about a particular remote.
+
+### Example:
+
+	git remote add <name> <url>
+	git remote remove <name>
+	git remote show <remote>
