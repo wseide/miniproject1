@@ -93,3 +93,11 @@ A repository is like a folder for a project. Project's repository contains all o
 ### Example:
 
 	git status
+
+# Master Branch:
+
+**Master** is a naming convention for a branch. After cloning (downloading) a project from a remote server, the resulting local repository has a single local branch: the so-called "master" branch. This means that "master" can be seen as a repository's "default" branch.
+
+### Example:
+
+	git push origin master (changes made to remote master branch)
