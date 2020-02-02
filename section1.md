@@ -15,3 +15,9 @@ To implement this command type cp followed by the two file names
 pwd = stands for "present working directory" and is used to print the current working directory path being used
 
 To implement this command correctly, simply type pwd in command line
+
+mv = stand for move and is used for moving files or directories from one place to another. It can be used for single files, multiple files and directories.
+
+This command requires atleast one source and one destination to be implemented correctly. The destination is where the source or sources will be moved to.
+
+To correctly use this command, simply type git mv followed by source and destination
