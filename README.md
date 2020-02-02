@@ -26,6 +26,16 @@ Collaborative Effort by:
 ## Requirements
 No requirements just documentation
 
+### Sources:
+##### Mastering Markdown 
+[Mastering Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+##### Github WIKI
+[Github Wiki](https://help.github.com/en/github)
+
+##### Git Branching - Basic Branching and Merging
+[Git Branching](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
+
 # CHANGELOG
 
 Changes to the document will be documented in this file
