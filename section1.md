@@ -31,3 +31,9 @@ History = to find the commit history of a specific repository you must go to the
 Home Directory and ~ = the Home Directory is where the work is stored for the repository. The tilde symbol is used for referencing parent commits and previous heads within the branch.
 
 File Paths in linux = this is a readable representation of a file or folders location within the computer system. This makes it easier to track a file/folder.
+
+Using TAB key to complete file paths = This method is used in order to make it easier to quickly get to the right file name by beginning to type the name of the file and then hitting the TAB key in order to complete the name without having to type the rest out manually.
+
+This method is useful when you have many files and want to quickly retrieve one file. 
+
+If two or more files have similar names, you must type out enough of the file name so the program will recognize the file you want to retrieve and not get it confused with another file before hitting the TAB key.
