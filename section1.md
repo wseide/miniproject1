@@ -47,6 +47,10 @@ It is used to create new directories within existing directories in order to sto
 
 Implemented by typing mkdir followed immediately by the name of the new directory
 
+=======
+=======
+
+
 
 cp = stands for copy and is used for copying files or directories
 
@@ -80,5 +84,13 @@ This method is useful when you have many files and want to quickly retrieve one 
 
 If two or more files have similar names, you must type out enough of the file name so the program will recognize the file you want to retrieve and not get it confused with another file before hitting the TAB key.
 
+
+Using Up and Down Arrow for History = this action will retrieve previously typed code starting with the most recent code in order to save the user time when typing repetitive code. You can also view previous code with this function without scrolling up through the terminal.
+
+
+=======
+
+=======
 ***Using Up and Down Arrow for History*** = this action will retrieve previously typed code starting with the most recent code in order to save the user time when typing repetitive code. You can also view previous code with this function without scrolling up through the terminal.
+
 
