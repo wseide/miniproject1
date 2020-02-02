@@ -66,3 +66,12 @@ A repository is like a folder for a project. Project's repository contains all o
 
 	git push <remote>
 	git push origin master
+
+# Pull:
+
+**Pull** updates the local line of development with updates from its remote counterpart. Developers use this command if a teammate has made commits to a branch on a remote, and they would like to reflect those changes in their local environment.
+
+### Example:
+
+	git pull <remote_repo>
+	git pull origin master
