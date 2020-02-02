@@ -19,6 +19,14 @@ We branch in Git and Github to protect our work and to protect work of others. W
 ### Avoiding the merge conflict
 We avoid merge conflicts by having someone review any request to push to the master branch. 
 
+Github makes it easy for us to review the merge conflicts by telling us what file has the conflict.
+
+We can use the web editor to open the file and the place where <<<<<< is marked is usually where the conflict emerges.  
+
+We can remove these conflicts by deleting what we don't need added to the merge.
+
+Once the conflict is resolved we are allowed to merge.
+
 
 
 ### Forking vs Cloning  
@@ -45,10 +53,20 @@ Check your repositories and you should see the forked repository on your Github 
 
 To create a pull a request:
 
-`git request-pull [-p] <start> <url> [<end>]`
+**In Github**: From repository click `new pull request `
 
--p i
+Under `compare master` select your branch add a title but a title is already there based on your commit message.
 
+Here we can also add a reviewer on the right side column.
+
+If a reviewer is added they will be able to fix Merge Conflicts and review the code before approval.
+
+Once approved, the changes can be merged into the master.
+
+This is a great safety protocol to ensure quality code is going into the master branch that will not break websites and applications.
+
+**In your Terminal**
+Run command
 
 ### Adding a Collaborator to a Github Repository
 To add a collaborator to a GitHub Repo:
