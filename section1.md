@@ -21,3 +21,7 @@ mv = stand for move and is used for moving files or directories from one place t
 This command requires atleast one source and one destination to be implemented correctly. The destination is where the source or sources will be moved to.
 
 To correctly use this command, simply type git mv followed by source and destination
+
+rm = stands for remove and is used for removing files from the Git Repository
+
+To correctly use this command, simply type git rm followed by the name of the file that you want removed.
