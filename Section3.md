@@ -5,6 +5,14 @@ Get a Github account from [Github](Github.com)
 Download and install `git` onto your computer
 Set up `git` with your `user name` and `email`
 
+Once `git` is setup you can clone repository onto your local machine.
+
+Then we can setup your own branch using the comamnd line in your Terminal:
+
+`git checkout -b <branch name>`
+
+Then you will be able to work within your branch
+
 ### Concept of Branching
 We branch in Git and Github to protect our work and to protect work of others. With branching we can work collaboratively on one project and if we are working on the same material we can request a review and the person who review the quality of the code can push the correct code into the master branch. 
 
@@ -37,6 +45,11 @@ Check your repositories and you should see the forked repository on your Github 
 
 To create a pull a request:
 
+`git request-pull [-p] <start> <url> [<end>]`
+
+-p i
+
+
 ### Adding a Collaborator to a Github Repository
 To add a collaborator to a GitHub Repo:
 1. Go to **Settings**
@@ -44,6 +57,7 @@ To add a collaborator to a GitHub Repo:
 2. On the left hand side select **Collaborators**
 
 ![Collaborators](collab.PNG "Collaborators")
+
 3. You can add a collaborator by adding username, full name, or e-mail address
 ![Add](add.PNG "Add")
 
@@ -53,7 +67,7 @@ To add a collaborator to a GitHub Repo:
 [Section 1](section1.md)
 
 ## Section 2
-[Section 2](section2.md)
+[Section 2](Section2.md)
 
 ## Authors
 *Collaborative Effort* by:
