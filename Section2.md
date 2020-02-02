@@ -37,6 +37,7 @@ A repository is like a folder for a project. Project's repository contains all o
 
 	git commit -m "Definition of commit added"
 
+
 # Merge:
 
 **Merge** is used to combine changes made on two distinct branches. A developer would merge when they want to combine changes in feature branch to master branch.
@@ -45,3 +46,8 @@ A repository is like a folder for a project. Project's repository contains all o
 
 	git merge <feature_branch>
 	git merge Afreen
+=======
+=======
+A repository is like a folder for a project. Project's repository contains all of the project's files and stores each file's revision history. The file history is stored as a snapshot in time called commits.
+
+
