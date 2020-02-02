@@ -1,5 +1,5 @@
 
-# Mini Project 1 test
+# Mini Project 1
 
 Explanation of git definitions as well as why we use them.
 
