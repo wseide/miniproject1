@@ -85,3 +85,11 @@ A repository is like a folder for a project. Project's repository contains all o
 	git remote add <name> <url>
 	git remote remove <name>
 	git remote show <remote>
+
+# Status:
+
+**Status** shows the status of changes as untracked, modified or stages.
+
+### Example:
+
+	git status
