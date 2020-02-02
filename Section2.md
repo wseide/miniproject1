@@ -123,3 +123,16 @@ Gitflow Workflow is a Git workflow design that was first published and made popu
  ![commit on master branch](Image/img6.png)
 
  ![merge bugFix to master branch](Image/img7.png)
+
+
+
+
+
+## Sources:
+
+[source1](https://guides.github.com/introduction/git-handbook/) 
+
+[Source2](https://www.atlassian.com/git/tutorials)
+
+[Source3](https://guides.github.com/features/mastering-markdown/)
+
