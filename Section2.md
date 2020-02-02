@@ -58,3 +58,11 @@ A repository is like a folder for a project. Project's repository contains all o
 	git checkout -b <branch_name> (create new branch)
 	git checkout -b Afreen
 
+# Push:
+
+**Push** updates remote repository with any commits made locally to a branch. After a local repository has been modified a push is executed to share the modifications with remote team members.
+
+### Example:
+
+	git push <remote>
+	git push origin master
