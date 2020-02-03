@@ -111,19 +111,25 @@ Gitflow Workflow is a Git workflow design that was first published and made popu
   Here the Workflow diagram of how to create a new branch and commit on that branch and master branch and finally merge new branch to master branch is shown in the diagram.
 
  ![master branch only](Image/img1.png)
+ *master branch only*
 
  ![bugFix branch created](Image/img2.png)
+ *bugFix branch created*
 
  ![checkout to bugFix branch](Image/img3.png)
+ *checkout to bugFix branch*
 
  ![commit on bugFix branch](Image/img4.png)
+ *commit on bugFix branch*
 
  ![checkout to master branch](Image/img5.png)
+ *checkout to master branch*
 
  ![commit on master branch](Image/img6.png)
+ *commit on master branch*
 
  ![merge bugFix to master branch](Image/img7.png)
-
+ *merge bugFix to master branch*
 
 
 
