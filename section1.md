@@ -38,6 +38,7 @@ To correctly use this command, simply type `git rm` followed by the `name of the
 ***File Paths in linux*** = this is a readable representation of a file or folders location within the computer system. This makes it easier to track a file/folder.
 
 ***Using TAB key to complete file paths*** = This method is used in order to make it easier to quickly get to the right file name by beginning to type the name of the file and then hitting the TAB key in order to complete the name without having to type the rest out manually.
+<<<<<<< HEAD
 =======
 cd = stands for change directory, used for navigating through our computer folders, if you are in the folder already use "cd /<name>
 
@@ -79,6 +80,8 @@ Home Directory and ~ = the Home Directory is where the work is stored for the re
 File Paths in linux = this is a readable representation of a file or folders location within the computer system. This makes it easier to track a file/folder.
 
 Using TAB key to complete file paths = This method is used in order to make it easier to quickly get to the right file name by beginning to type the name of the file and then hitting the TAB key in order to complete the name without having to type the rest out manually.
+=======
+>>>>>>> aae17653d617ba9f03a5fa65ff84d47124db5854
 
 This method is useful when you have many files and want to quickly retrieve one file. 
 
@@ -92,5 +95,8 @@ Using Up and Down Arrow for History = this action will retrieve previously typed
 
 =======
 ***Using Up and Down Arrow for History*** = this action will retrieve previously typed code starting with the most recent code in order to save the user time when typing repetitive code. You can also view previous code with this function without scrolling up through the terminal.
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> aae17653d617ba9f03a5fa65ff84d47124db5854

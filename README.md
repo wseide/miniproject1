@@ -13,11 +13,11 @@ Collaborative Effort by:
 
 
 ## Section 2
-[Section 2](section2.md)
+[Section 2](Section2.md)
 
 
 ## Section 3
-[Section 3](section3.md)
+[Section 3](Section3.md)
 
 
 ## Link to Repository
@@ -54,5 +54,11 @@ Changes to the document will be documented in this file
 7. Aman merged into master
 8. Wismy updated the ReadMe
 9. Changelog added into file
+10. Aman finished section 1
+11. Afreen finished section 2
+12. Wismy finished section 3
+13. Checked for bugs and misses 
+14. Push all work to Master
+
 
 
